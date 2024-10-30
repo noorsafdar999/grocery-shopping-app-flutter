@@ -1,6 +1,6 @@
 # Flutter+Firebase Online Grocery Store
 
-Welcome to the Flutter+Firebase Online Grocery Store repository! This repository contains two projects: a mobile app for the grocery store and a web and mobile admin panel for managing the store. Both projects are built using Flutter and Firebase, offering a seamless experience across platforms.
+Welcome to the Flutter Firebase Online Grocery Store repository! This repository contains two projects: a mobile app for the grocery store and a web and mobile admin panel for managing the store. Both projects are built using Flutter and Firebase, offering a seamless experience across platforms.
 
 ## Features
 
